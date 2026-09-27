@@ -1,4 +1,4 @@
-import { sum } from "./math.js";
+import { sum } from "./math.ts";
 
 // Returns the arithmetic mean of `values` (0 for an empty list).
 export function average(values: number[]): number {
